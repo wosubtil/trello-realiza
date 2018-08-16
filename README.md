@@ -37,9 +37,6 @@
 ## 3 - Novo formato do Trello para os Produtos que Mantemos 
 
 - Teremos Uma board ([BACKLOG ALL](https://trello.com/b/CnzVGadf/backlog-all)) com todos os cards a serem feitos separados por produto no formato de lista;
-
-![BACKLOG ALL]('./backlog-all-1.png')
-
 - Uma board com as tarefas que serão entregues (SPRINT);
 - Teremos duas Sprints - Uma em execução e outra planejada;
 - o Workflow do Kanban será adaptado para funcionar com Sprints;
